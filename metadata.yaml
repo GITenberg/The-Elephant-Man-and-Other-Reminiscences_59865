@@ -1,0 +1,25 @@
+_repo: The-Elephant-Man-and-Other-Reminiscences_59865
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Treves, Frederick
+    aliases:
+    - Trevis, Frederick
+    - Treves, Frederick, Sir
+    birthdate: 1853
+    deathdate: 1923
+    gutenberg_agent_id: '41180'
+    url: http://www.gutenberg.org/2009/agents/41180
+description: ''
+gutenberg_issued: '2019-07-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59865'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Elephant Man and Other Reminiscences
+url: http://www.gutenberg.org/ebooks/59865
